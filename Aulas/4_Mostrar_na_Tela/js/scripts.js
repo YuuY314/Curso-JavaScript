@@ -1,0 +1,1 @@
+document.write("O Naruto pode  ser um pouco duro às vezes.");
